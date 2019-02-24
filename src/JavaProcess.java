@@ -1,10 +1,9 @@
-/**
- * Java Processes
- * - edit->compile->run cycle
- * - Probably include command line stuff
- *
- * @author Ray
- */
-public class JavaProcess {
 
+public class JavaProcess {
+	public static void main (String args[]) {
+		System.out.println("Hello World");
+		//System.out.println("Something else")
+		String x = null;
+		x.toUpperCase();
+	}
 }
